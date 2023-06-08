@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">MediLight</string>
+    <string name="connected">Connected</string>
+    <string name="settings">Settings</string>
+    <string name="smart_care">Smart Care</string>
+    <string name="aram_kim">User</string>
+    <string name="date_format">dd.MM.yyyy</string>
+
+    <string name="normal">Normal</string>
+    <string name="prepare">Prepare</string>
+    <string name="user_alert">User Alert</string>
+
+    <string name="desc1">Current bladder status is normal</string>
+    <string name="desc2">Bladder status is nearing capacity</string>
+    <string name="desc3">Current bladder status reached set capacity.</string>
+    <string name="desc4">Free to engage in activities.</string>
+    <string name="desc5">Please prepare catheter.</string>
+    <string name="desc6">Please catheterize now</string>
+
+    <string name="desc7">%dm ago</string>
+    <string name="desc8">%dhours ago</string>
+    <string name="desc9">%dday ago</string>
+
+    <string name="detail1">Details</string>
+    <string name="detail2">Status History</string>
+    <string name="detail3">Fullness</string>
+    <string name="detail4">Fullness</string>
+    <string name="detail5">User Alert</string>
+    <string name="detail6">5 min ago: LV.4 Fullness</string>
+    <string name="detail7">35 min ago: LV.3 Fullness</string>
+    <string name="detail8">Next 20 min: LV.5 (Expected)</string>
+    <string name="detail9">2min ago: LV.5 User Alert</string>
+    <string name="detail10">30min ago: LV.4 Fullness</string>
+
+    <string name="bottombtn1">Measure</string>
+    <string name="bottombtn2">Catheterization\nRecord</string>
+    <string name="bottombtn3">Calibrate A.I</string>
+
+    <string name="regist1">Device Pairing</string>
+    <string name="regist2">Discovered Device : %1$d</string>
+    <string name="regist3">Please, turn on the device, and prepare the provided QR code or serial number.</string>
+    <string name="regist4">Register the Device</string>
+    <string name="regist5">Instructions</string>
+
+    <string name="regist6">Device Registration</string>
+    <string name="regist7"> </string>
+    <string name="regist8">QR Scan</string>
+    <string name="regist9">Serial</string>
+    <string name="regist10">Serial Code</string>
+    <string name="regist11">Enter</string>
+
+    <string name="uds1">Data Collection</string>
+    <string name="uds2">Please, measure the data to train an artificial intelligence model.</string>
+    <string name="uds3">Measure</string>
+    <string name="uds4">Train an AI Model</string>
+
+    <string name="uds5">Enter Bladder Volume</string>
+    <string name="uds6">unit : ml</string>
+    <string name="uds7">Enter</string>
+
+    <string name="setting1">Settings</string>
+    <string name="setting2">Set level to catheterize</string>
+    <string name="setting3">Set alarm interval</string>
+    <string name="setting3_desc1">알람의 간격을 설정합니다.</string>
+    <string name="setting4">기기 사용 설명서</string>
+    <string name="setting5">Delete paired device</string>
+    <string name="setting6">관리자 모드 진입</string>
+    <string name="setting7">인공지능 학습관리</string>
+    <string name="setting8">데이터 내보내기</string>
+    <string name="setting9">관리자 모드 종료</string>
+    <string name="setting10">모니터링 페이지</string>
+    <string name="setting11">학습 규칙 설정</string>
+
+    <string name="wrong_num_toast">Please use the provided QR or SN</string>
+</resources>

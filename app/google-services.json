@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991989487622",
+    "project_id": "blueprint-e880f",
+    "storage_bucket": "blueprint-e880f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991989487622:android:5fc3afd82f9fcadd1a8b87",
+        "android_client_info": {
+          "package_name": "com.medithings.blueprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991989487622-bfr0bdpf7220l980q30jar9oa9ljh7dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa1nC6fOtRJyKRYdsUOBg7uRPuewdLi-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991989487622-bfr0bdpf7220l980q30jar9oa9ljh7dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

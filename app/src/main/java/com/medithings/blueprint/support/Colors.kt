@@ -1,0 +1,26 @@
+package com.medithings.blueprint.support
+
+import androidx.compose.ui.graphics.Color
+
+val bluePrimary = Color(0xff2462f7)
+val accent = Color(0xffff4081)
+val black100 = Color(0xff121212)
+val black40Description = Color(0xffa0a0a0)
+val black20PlaceHolder = Color(0xffd0d0d0)
+val black12Disable = Color(0xffe2e2e2)
+val black8Divider = Color(0xffececec)
+val black4Box = Color(0xfff6f6f6)
+val black65 = Color(0xff656565)
+val blueLogo = Color(0xff84dfef)
+val blueLight = Color(0xff6d9dfa)
+val blueDark = Color(0xff0000d3)
+val yellowMiddle = Color(0xfff57f3d)
+val red100 = Color(0xffff4141)
+val red200 = Color(0xffb00004)
+val red10 = Color(0x19ff4141)
+val yellow100 = Color(0xffffc115)
+val greenNeonGreen = Color(0xff00d740)
+val clearBlue = Color(0xff2462f7)
+val white100 = Color(0xffffffff)
+val demoPrimary = Color(0xff49619b)
+val demoDialog = Color(0xffd5e5f4)
